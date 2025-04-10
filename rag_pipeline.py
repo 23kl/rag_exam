@@ -18,7 +18,7 @@ FAISS_DB_PATH = "vectorstore/db_faiss"
 TOP_N_LIMIT = 10
 
 # Initialize Groq Client
-groq_key = "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"
+groq_key =GROK_KEY
 
 client = Groq(api_key=groq_key)
 
