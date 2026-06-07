@@ -39,5 +39,3 @@ LoRA/QLoRA fine-tuning (used during model optimization)
 Document Processing:
 PyMuPDF (for PDF parsing)
 OpenCV (for image alignment)
-
-
